@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `XPFIbre – Blog`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `XP Fibre`,
+      summary: `Hello World.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
+    description: `Le blog de Xp Fibre.`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `xpfibre`,
     },
   },
   plugins: [
